@@ -83,7 +83,7 @@ The following code shows how to use the **controlBar** object to move the contro
                 <VectorMap>
                     // ...
                     <ControlBar
-                        horizontalAlignment="right"
+                        horizontalAlignment="right" enabled="false"
                     />
                 </VectorMap>
             );
